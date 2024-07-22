@@ -1,0 +1,7 @@
+#Repair the MBR Block
+Use the disk imaging tool to repair the MBR block. This typically involves overwriting the MBR with a known good or default MBR. The exact steps may vary depending on the tool used, but generally, you'll need to:
+
+Open the disk image file.
+Locate the MBR block (usually the first 512 bytes of the disk image).
+Overwrite the MBR block with a known good or default MBR.
+Save the disk image file.
