@@ -7,6 +7,9 @@ ___
       - Repair Protective MBR header
       - Repair GPT header
       - Repair GPT partitions
+      - Repair MBR header
+      - Repair MBR partitions
+      - Repair the content of the disk image with damage the header and partitions
      
   The videos are designed to be short and concise, making them easy to follow and understand. Whether you're a beginner or an experienced user, these resources can help you enhance your hard disk management and troubleshooting abilities.
 
@@ -19,6 +22,9 @@ In addition to the Telegram channel, this repository includes three separate fil
 ### GPT.rar Archive
 ___
 The repository also includes a compressed file named GPT.rar, which contains the damaged files used in the instructional videos and repair guides. This archive allows users to access the necessary files and follow along with the provided instructions.
+
+### MBR.zip Archive
+Additionally, this repository includes a compressed file named MBR.zip, which contains the damaged files used in the instructional videos and repair guides for the MBR-related scenarios.
 
 
 Feel free to explore the contents of this repository and utilize the resources available to improve your hard disk repair skills.
