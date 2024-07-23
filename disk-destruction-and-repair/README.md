@@ -19,13 +19,14 @@ ___
 In addition to the Telegram channel, this repository includes three separate files that provide detailed instructions for the repair scenarios covered in the videos.
 
 
-### GPT.rar Archive
+### GPT.rar && MBR.zip Archive
 ___
-The repository also includes a compressed file named GPT.rar, which contains the damaged files used in the instructional videos and repair guides. This archive allows users to access the necessary files and follow along with the provided instructions.
+This repository includes compressed files containing the damaged files used in the instructional videos and repair guides for both GUID Partition Table (GPT) and Master Boot Record (MBR) scenarios, allowing users to access the necessary files and follow along with the provided instructions.
 
-### MBR.zip Archive
+###  Videos-of-Mr. Ali-Hadi.md
 ___
-Additionally, this repository includes a compressed file named MBR.zip, which contains the damaged files used in the instructional videos and repair guides for the MBR-related scenarios.
+This README file gives a concise summary of six scenarios described by Professor Ali Hadi in a series of YouTube videos. The videos cover the repair of corrupted Master Boot Record (MBR) and GUID Partition Table (GPT) partitions and headers using the WinHex software tool.
+
 
 
 Feel free to explore the contents of this repository and utilize the resources available to improve your hard disk repair skills.
