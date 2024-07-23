@@ -25,7 +25,7 @@ This repository includes compressed files containing the damaged files used in t
 
 ###  Videos-of-Mr. Ali-Hadi.md
 ___
-This README file gives a concise summary of six scenarios described by Professor Ali Hadi in a series of YouTube videos. The videos cover the repair of corrupted Master Boot Record (MBR) and GUID Partition Table (GPT) partitions and headers using the WinHex software tool.
+This file gives a concise summary of six scenarios described by Professor Ali Hadi in a series of YouTube videos. The videos cover the repair of corrupted Master Boot Record (MBR) and GUID Partition Table (GPT) partitions and headers using the WinHex software tool.
 
 
 
